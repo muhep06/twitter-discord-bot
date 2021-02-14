@@ -1,4 +1,4 @@
-<h1 style="text-align: center">twitter-discord-bot <span style="font-size: 12px">(Test Project)</span></h1>
+<h1 align="center">twitter-discord-bot (Test Project)</h1>
 
 # About
 Mini go script that automatically shares your tweets on Discord channel via webhook.
